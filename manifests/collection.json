@@ -1,0 +1,15 @@
+{
+  "id" : "https://kam535.github.io/Test-Project/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in kam535/Test-Project project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://kam535.github.io/Test-Project/manifests/manifest.json",
+    "label" : {
+      "en" : [ "All images loaded in kam535/Test-Project project" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
