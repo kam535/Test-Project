@@ -7,5 +7,87 @@
             "All images loaded in kam535/Test-Project project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://kam535.github.io/Test-Project/images/mimi-3/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "mimi-3"
+                ]
+            },
+            "height": 2541,
+            "width": 1859,
+            "items": [
+                {
+                    "id": "https://kam535.github.io/Test-Project/images/mimi-3/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://kam535.github.io/Test-Project/images/mimi-3/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://kam535.github.io/Test-Project/images/mimi-3/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 59,
+                                                "height": 80
+                                            },
+                                            {
+                                                "width": 117,
+                                                "height": 159
+                                            },
+                                            {
+                                                "width": 233,
+                                                "height": 318
+                                            },
+                                            {
+                                                "width": 465,
+                                                "height": 636
+                                            },
+                                            {
+                                                "width": 930,
+                                                "height": 1271
+                                            },
+                                            {
+                                                "width": 1859,
+                                                "height": 2541
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1859,
+                                        "@id": "https://kam535.github.io/Test-Project/images/mimi-3",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2541,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://kam535.github.io/Test-Project/images/mimi-3/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
